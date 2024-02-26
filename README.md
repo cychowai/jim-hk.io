@@ -1,1 +1,1 @@
-# [jim.hk.io](https://cychowai.github.io/jim.hk.io/)
+# [jim-hk.io](https://cychowai.github.io/jim-hk.io/)
