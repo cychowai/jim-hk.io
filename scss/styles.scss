@@ -284,7 +284,7 @@ footer {
         left: 0;
         right: 0;
         margin: 0 auto;
-        background: $base-color;
+        background: $background-alt;
     }
 }
 
@@ -294,12 +294,11 @@ footer {
 
 #lead {
     position: relative;
-    height: 100vh;
     min-height: 500px;
     max-height: 1080px;
+    height: 80vh;
     background: url(../images/background.gif);
     background-size: cover;
-    padding: 15px;
     overflow: hidden;
 }
 
