@@ -247,15 +247,15 @@ footer {
 
 .btn-rounded-white {
     display: inline-block;
-    color: #fff;
+    color: $base-color;
     padding: 15px 25px;
     border: 3px solid #fff;
     border-radius: 30px;
     @include transition();
 
     &:hover {
-        color: $base-color;
-        background: #fff;
+        color: #fff;
+        background: $base-color;
         text-decoration: none;
     }
 }
@@ -367,7 +367,7 @@ footer {
     i {
         animation: pulsate 1.5s ease;
         animation-iteration-count: infinite;
-        padding-top: 5px;;
+        padding-top: 5px;
     }
 }
 
@@ -472,7 +472,6 @@ footer {
 .vtimeline-point {
     position: relative;
     display: block;
-    vertical-align: top;
     margin-bottom: 30px;
 }
 
